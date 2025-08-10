@@ -1,5 +1,4 @@
 # 🌟 GoldenUniverseConstant  
-**EMU = 67.80 J·s**  
 *The universal action constant bridging φ, planets, and quantum scales.*  
 
 ## 🔑 Key Components  
