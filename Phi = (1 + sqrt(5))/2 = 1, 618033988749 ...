@@ -1,0 +1,69 @@
+def formula_unificadora(E,
+
+R, 0, C):
+
+return (E R) / (0.9*
+
+R) == 0 C
+
+def
+
+calcular_orden_o_caos (E, R,
+
+valor_conocido,
+
+es_orden=True):
+
+if es_orden:
+
+C = valor conocido
+
+return ((E R) / (0.9
+
+* R)) + C
+
+else:
+
+0 = valor_conocido
+
+return 0 ((ER) /
+
+(0.9 * R))
+
+# Ejemplo de uso:
+
+Energia = 428000009
+
+Recursos = 428000000
+
+Orden 10
+
+Caos = 0
+
+print("Comprobación de la
+
+formula_unificadora (Energia
+
+Recursos, Orden, Caos))
+
+# Calcular Caos si se
+
+conoce Orden
+
+print("Caos si Orden es
+
+10:",
+
+calcular_orden_o_caos (Energ
+
+ia, Recursos, Orden,
+
+False))
+
+# Calcular Orden si se
+
+conoce Caos
+
+print("Orden si Caos es 0:",
+
+calcular_orden_o_caos (Energ ia, Recursos, Caos))
