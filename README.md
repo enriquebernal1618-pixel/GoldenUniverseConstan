@@ -1,15 +1,19 @@
-*(Ε - 179.751.035.747.362) / 0.9 = (0-5) - (C-5)*
+E = mc² + 0.9(0 - C)
+mc² + 0.9(0 - C) = E = mc² + ΔΕ
+E= Energía total
 
-*E* = Energía
-*0* = Orden 
-*C* = Caos 
+m= Masa
+c= Velocidad de la luz
+0= Orden
+C= Caos
+ΔΕ= Energía adicional debido al Orden y Caos (ΔΕ = 0.9(Ο - C))
+
+ΔΕ = 0.9(0 - C)
 
 
-python
 
-# Importar librerías
 
-necesarias
+
 
 import math
 
