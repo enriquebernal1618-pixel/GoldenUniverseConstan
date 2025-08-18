@@ -1,7 +1,9 @@
-# 🌟 GoldenUniverseConstant  
-*The universal action constant bridging φ, planets, and quantum scales.*  
+*(Ε - 179.751.035.747.362) / 0.9 = (0-5) - (C-5)*
 
-valores reales
+*E* = Energía
+*0* = Orden 
+*C* = Caos 
+
 
 python
 
